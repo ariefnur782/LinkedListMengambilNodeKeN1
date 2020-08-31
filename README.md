@@ -1,0 +1,2 @@
+# LinkedListMengambilNodeKeN1
+uts
